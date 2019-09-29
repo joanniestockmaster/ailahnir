@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaizeiphey.wuyihuayuan.com/sitemap.xml
